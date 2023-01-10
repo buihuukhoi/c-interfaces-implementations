@@ -5,6 +5,7 @@ C interfaces and implementations for most important libraries/Abstract-Data-Type
 * Table
 * Set
 * Dynamic Array
+* Sequence
 * Memory management
 * Assertion
 * Exception
